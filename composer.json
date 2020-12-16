@@ -1,5 +1,5 @@
 {
-    "name": "JDMOnline/v3-php-sdk",
+    "name": "jdmonline/v3-php-sdk",
     "description": "The Official PHP SDK for QuickBooks Online Accounting API",
     "type": "library",
     "keywords": ["api", "http", "rest", "quickbooks", "smallbusiness"],
